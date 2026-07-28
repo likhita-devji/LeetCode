@@ -8,3 +8,11 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 - 🎯 Goal: Strengthen Data Structures & Algorithms
 - 📚 Platform: LeetCode
 - 🔥 Currently preparing for Software Engineering & Data Science interviews
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/likhita-devji/LeetCode/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
