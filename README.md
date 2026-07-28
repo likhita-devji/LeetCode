@@ -47,4 +47,5 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/likhita-devji/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0584-find-customer-referee](https://github.com/likhita-devji/LeetCode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
