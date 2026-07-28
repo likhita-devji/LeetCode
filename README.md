@@ -43,4 +43,8 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/likhita-devji/LeetCode/tree/master/0303-range-sum-query-immutable) |
+## Database
+|  |
+| ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/likhita-devji/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 <!---LeetCode Topics End-->
