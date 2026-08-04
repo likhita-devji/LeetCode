@@ -59,4 +59,5 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [1280-students-and-examinations](https://github.com/likhita-devji/LeetCode/tree/master/1280-students-and-examinations) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/likhita-devji/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/likhita-devji/LeetCode/tree/master/1934-confirmation-rate) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/likhita-devji/LeetCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
