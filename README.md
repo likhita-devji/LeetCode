@@ -60,6 +60,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [1251-average-selling-price](https://github.com/likhita-devji/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/likhita-devji/LeetCode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/likhita-devji/LeetCode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/likhita-devji/LeetCode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/likhita-devji/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1683-invalid-tweets](https://github.com/likhita-devji/LeetCode/tree/master/1683-invalid-tweets) |
 | [1934-confirmation-rate](https://github.com/likhita-devji/LeetCode/tree/master/1934-confirmation-rate) |
