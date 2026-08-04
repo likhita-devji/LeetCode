@@ -50,6 +50,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [0584-find-customer-referee](https://github.com/likhita-devji/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/likhita-devji/LeetCode/tree/master/0595-big-countries) |
 | [0620-not-boring-movies](https://github.com/likhita-devji/LeetCode/tree/master/0620-not-boring-movies) |
+| [1251-average-selling-price](https://github.com/likhita-devji/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/likhita-devji/LeetCode/tree/master/1280-students-and-examinations) |
 | [1934-confirmation-rate](https://github.com/likhita-devji/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
