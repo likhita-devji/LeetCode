@@ -53,5 +53,6 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 | [1075-project-employees-i](https://github.com/likhita-devji/LeetCode/tree/master/1075-project-employees-i) |
 | [1251-average-selling-price](https://github.com/likhita-devji/LeetCode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/likhita-devji/LeetCode/tree/master/1280-students-and-examinations) |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/likhita-devji/LeetCode/tree/master/1633-percentage-of-users-attended-a-contest) |
 | [1934-confirmation-rate](https://github.com/likhita-devji/LeetCode/tree/master/1934-confirmation-rate) |
 <!---LeetCode Topics End-->
