@@ -46,6 +46,7 @@ Welcome to my LeetCode repository! This repository contains my solutions to Leet
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/likhita-devji/LeetCode/tree/master/0175-combine-two-tables) |
 | [0180-consecutive-numbers](https://github.com/likhita-devji/LeetCode/tree/master/0180-consecutive-numbers) |
 | [0196-delete-duplicate-emails](https://github.com/likhita-devji/LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/likhita-devji/LeetCode/tree/master/0197-rising-temperature) |
